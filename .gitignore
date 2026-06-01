@@ -1,0 +1,12 @@
+﻿# Ignore all audio/video files
+*.mp3
+*.MP3
+*.mp4
+*.wav
+*.flac
+*.m4a
+*.wma
+
+# Ignore system files
+Thumbs.db
+.DS_Store

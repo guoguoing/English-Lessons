@@ -1,0 +1,81 @@
+# 2026-05-14 课堂总结与教学反馈
+
+## 一、课堂内容概览
+
+本节课是一节**听说读写的综合复习课**，围绕Unit 1的City主题展开。
+
+### 1. 听力训练（课本P18，练习1.1）
+- 听录音，从三张图片中选择与描述匹配的图片
+- **听力内容**：
+  - Example：Look, there are some lions.（示例）
+  - #1：动物园场景（monkeys, elephants, giraffes）
+  - #2：河边场景（crocodile, hippos）
+  - #3：野餐场景（sandwiches, biscuits, lemonade）
+  - #4：商店场景（books, toys, parrot, sweets, chocolate）
+
+### 2. 图片描述练习（口语输出）
+- 学生用There be句型描述图片内容：
+  - **Dimple描述**：There are two elephants and two monkeys.
+  - **Lucy描述**：There is a crocodile and there are two hippos.
+  - **Gaga描述**：There are two sandwiches and some lemonade.
+  - **Sunny描述**：There are lots of books, there is a toy snake, a toy parrot, and a toy car.
+
+### 3. "就近原则"（Proximity Principle）讲解
+- 当There be后面有多个名词时，be动词的单复数由**最靠近be动词的名词**决定
+- **例句**：There **is** a crocodile and two hippos.（is靠近a crocodile）
+- **对比**：There **are** two hippos and a crocodile.（are靠近two hippos）
+- 习惯用语：**Hippopotamus**的简称为**Hippos**
+
+### 4. 课堂练习（Mini Revision）
+- 选择正确的回答（6道题）
+- 选择任意一张图片进行描述
+
+### 5. 课后作业
+- 完成Mini Revision的选择题
+- 选择刚才听力的四组图片中的任意一张，写出完整描述句
+- 写完后拍照提交
+
+---
+
+## 二、学生表现
+
+### Lucy
+- **表现良好**：听力第2题选择正确（A），图片描述完整："There is a crocodile and there are two hippos." 准确地使用了单复数
+- **可改进**：可以将描述语句组织得更连贯
+
+### Sunny
+- **表现良好**：听力第4题虽然开始时选C，但在讨论后纠正，且图片描述内容非常丰富
+- **可改进**：注意不可数名词的表达（chips vs biscuits需区分）
+
+### Dimple
+- **表现良好**：听力第1题回答正确（A），图片描述清晰准确
+- **可改进**：可以增加对颜色、位置等细节的描述
+
+### Gaga
+- **表现良好**：听力第3题选择正确（B），尝试用There be描述
+- **可改进**："There is a lemonade"应改为"There is some lemonade"，可数与不可数的区分需加强
+
+---
+
+## 三、教学反馈
+
+### 教学方法说明
+采用**听说领先法**（Audio-lingual Method）结合**情景教学**。课堂以听力输入→口语输出为主线，在真实语境中操练There be句型。教师利用课本听力资源，设计听说结合的课堂活动。
+
+### 教师优点
+1. **听力先行**：先输入再输出，符合语言习得规律
+2. **就近原则讲解精彩**：用Lucy描述的例子自然引出语法现象，讲解透彻
+3. **学生主体**：让每位学生轮流描述图片，确保人人参与
+4. **词汇扩展**：讲解hippos→hippopotamus的简称，丰富学生词汇
+5. **听力策略**：教学生parrot这个新词，帮助他们判断正确答案
+
+### 可改进之处
+1. **听力反馈**：听力播放后可以让学生复述关键句，而不仅仅是选择答案
+2. **Pair work**：可以设计两人互问互答练习，而非只是师生问答
+3. **字典使用**：可教学生如何查阅新单词（如giraffe, hippopotamus）
+4. **板书利用**：就近原则的讲解可配合更清晰的板书展示
+
+---
+
+## 四、教师自评总结
+本节课是Unit 1的综合复习课，课堂活动设计丰富，涵盖了听力、口语、语法讲解三个维度。学生参与度很高，每位学生都有机会进行口语输出。教师对就近原则的讲解时机恰当，利用了学生刚刚输出的句子作为教学素材，教学效果良好。
