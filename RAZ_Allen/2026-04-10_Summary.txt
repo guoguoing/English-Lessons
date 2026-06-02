@@ -2,53 +2,79 @@
 
 ## 一、课堂内容概览
 
-本节课主要阅读了一本新的RAZ绘本 **The Camel and the Pig**（印度寓言故事），同时回顾了前一节课的复习内容，并新学习了**双宾语结构（Double Object Structure）** 的语法点。
+**1. 阅读材料**
+- **《The Camel and the Pig》（骆驼与猪）**：来自印度的寓言故事（Fable）。讲述了骆驼和猪在路边相遇，各自夸耀自己的特点——骆驼夸耀自己高大的驼峰（hump），猪夸耀自己卷曲的短尾巴（curly tail）。后来它们发现一个上锁的菜园，饥饿的它们各自用自己的方式进入：骆驼伸长脖子越过围墙吃树叶，猪则从门下挤进去。故事寓意是"高有高的好处，矮有矮的好处"（Sometimes it's good to be tall and sometimes it's good to be short），每个人都有自己的优势。
+- **《Taking the Train》（坐火车）**：非虚构类（Non-fiction）读物。描述火车从一座城市出发，沿途经过田野、河流、小镇，穿过隧道，最终到达大城市的过程。涉及火车的声音（horn blows）、乘客在车上的活动（阅读、休息、聊天）、沿途风景变化等。最后火车又从终点站折返回程。
 
-### 1. The Camel and the Pig（核心教学内容）
-- **故事梗概**：这是一则来自印度的寓言故事（fable）。骆驼和猪在路上相遇，他们都为自己的特点感到自豪——骆驼为自己的高大和驼峰而骄傲，猪为自己的短卷尾巴而骄傲。他们互相打赌（bet）。走了一会儿，他们路过一个菜园，里面长满了蔬菜，但菜园的围墙和大门锁住了。猪从门缝挤了进去（squeeze），骆驼用长脖子够到了墙内的树叶。他们最终都吃到了蔬菜。
-- **文体学习**：教师讲解了"fable"（寓言）的概念——它不仅是一个故事，还蕴含道理。之前学过的The Tortoise and the Hare、The Boy Who Cried Wolf都是寓言。
-- **作者/插画师**：Written by Anthony Curran, illustrated by Linda Silvestri
+**2. 重点词汇**
+- **双宾语动词结构**：tell somebody something, bet somebody something, give somebody something
+- **关键词汇**：
+  - bet（打赌/确信）— I bet he won't come. / I bet it will rain.
+  - squeeze（挤/挤压）— She squeezed into the subway train.
+  - reach（够着/到达）— The man cannot reach the apple.
+  - camel（骆驼）, hump（驼峰）, curly（卷曲的）, garden（菜园/花园）
+  - locked（锁住的）— The gate was locked.
+  - horn（喇叭/鸣笛）— The driver blew the horn.
+  - track（铁轨）— The train rolled along the track.
+  - tunnel（隧道）
+  - roll（滚动/摇晃）, rock（摇晃/颠簸）
+  - rise（上升）— Tall buildings rise towards the sky.
+  - head toward（朝……方向走）
+  - arrive（到达）, enter（进入）, rest（休息）
 
-### 2. 核心语法：双宾语结构（Double Object Structure）
-- **Tell somebody something**（告诉某人某事）
-  - She told me the good news.
-  - Eric didn't tell me the truth.
-- **Bet somebody something**（跟某人打赌/确信某事）
-  - I'll bet you Jen is winning.
-  - I'll bet you my hump is better to be tall.
-- **Give somebody something**（给某人某物）
-  - Mom gave me a dog as my birthday present.
-- **结构特点**：动词后面跟两个宾语——第一个是"人"（间接宾语），第二个是"事/物"（直接宾语）
+**3. 语法/句型重点**
+- 双宾语结构：tell/bet/give + somebody + something
+- while引导对比从句：Some people read on the train, while others rest.
+- brag about（吹嘘/自夸）：The camel is bragging about his hump.
+- be proud of（为……骄傲）
+- head toward / head for（朝……方向前进）
+- get on / get off（上车/下车）
 
-### 3. 关键词汇
-- **核心词汇**：bet（打赌/确信）, squeeze（挤入）, meet/met（见面）, reach（够到）, camel（骆驼）, hump（驼峰）, curly（卷曲的）, garden（菜园）, locked（锁住的）, gate（大门）, walk along（沿着……走）, be full of（充满……）, keep outside（挡在外面）, be better to be（最好是……）
+**4. 阅读理解活动**
+- 教师通过提问检验学生对故事的理解（人物、地点、事件、解决问题的方式）
+- 讨论寓言故事的寓意（moral）
+- 引导学生联想自身——"高和矮各自有什么好处"
+- 引导学生思考作者通过描写沿途风景想传达什么信息（旅程很长、火车经过许多地方、有人上下车）
 
-## 二、学生表现
+## 二、学生表现 (Alan)
 
-### Alan
-- **表现良好**：
-  - 对故事The Camel and the Pig有较好的记忆，能积极参与课堂讨论
-  - 能正确理解双宾语结构的概念，并在造句中进行实践
-  - 造句"Mom gave me a dog as my birthday present"体现了对give somebody something结构的掌握
-  - 积极参与故事猜测和推理（门锁住后，骆驼和猪怎么进去？）
+**做得好的地方：**
+1. 能够顺利朗读课文，基本单词认读较好
+2. 对《The Camel and the Pig》有印象，之前读过
+3. 回答问题时有思考，能够给出有效回答，例如：Camel can eat the leaves over the wall
+4. 能够完成双宾语结构句子的朗读，如 "Mom gave me a dog as my birthday present"
+5. 整体上课态度良好，能跟随教学节奏完成两本书的阅读
 
-- **可改进**：
-  - 需要对bet somebody something的"确信"含义做进一步练习，除了"打赌"外的引申义
-  - 双宾语结构的语序需要反复练习，注意不要遗漏宾语
+**需要改进的地方：**
+1. 回答问题的反应速度有待提高——老师在课堂上指出，当被提问时，Alan 有时需要较长时间思考才能回答
+2. 老师明确反馈："虽然你读过这本书，单词也基本认识，但当我提问时，有时还是不能很轻松地回答出来"。这说明阅读理解停留在"能读"的层面，还没有达到"能理解和回应"的熟练程度
+3. 需要训练英语思维，减少"中文→英文"的转换过程
+4. toward / head toward 等新词组需要多加练习使用
+5. 上课后半段精力有所下降，有走神现象（老师提醒"I head toward the park"的回答思路要跟上）
 
 ## 三、教学反馈
 
-### 教学方法说明
-采用**故事教学法**（Story-based Instruction），以RAZ绘本The Camel and the Pig为载体，在阅读过程中自然引出并系统讲解双宾语语法结构。
+**教学方法：**
+1. **导入环节（10分钟）**：教师先以中文帮助学生回忆"fable（寓言）"的概念，回顾之前学过的寓言（龟兔赛跑、狼来了），建立新旧知识的联系
+2. **词汇教学（15分钟）**：在阅读前先讲解关键词汇，特别是双宾语结构（tell/bet/give + somebody something），每个单词都配例句让学生朗读
+3. **朗读+提问式教学**：学生逐页朗读，教师结合图片提问（who/what/where/how），引导学生思考
+4. **联系生活**：讲解故事寓意时联系实际——"有人跑得快、有人跑得慢，但每个人都有自己的优势"
+5. **非虚构类阅读教学**：对《Taking the Train》不仅讲语句，更引导学生分析作者的写作目的——"为什么作者要写火车经过这么多地方？"（暗示旅程很长）
+6. **语言点拨**：在阅读中穿插语法讲解，如while表示对比、head toward表示方向等
 
-### 教师优点
-1. **语法讲解自然融入故事**：在阅读故事中的"I'll bet you..."句子时，自然而然地引出bet somebody something的结构，又关联复习tell somebody something和give somebody something，形成结构对比
-2. **注重阅读策略培养**：教师强调"故事第一句就告诉我们who, where, what"——教学生如何从开头获取关键信息
-3. **概念讲解清晰**：用中文准确解释"fable"（寓言）的概念，并用之前读过的寓言故事举例
-4. **鼓励预测思考**：在故事中设置悬念（门锁住了，他们怎么进去？），引导学生积极思考
+**教师做得好的地方：**
+1. 双语教学切换自然，中文辅助理解但不过度依赖
+2. 对学生的期待明确——在第1本书结束后，直接用中文跟学生讲了一段关于"学习英语要把眼光放长远"的道理，强调"会了"的标准不只是"能读顺"，而是"无论老师怎么提问都能回答"。这是很好的学习观引导
+3. 善于结合实际生活解释抽象概念（如用骆驼驼峰高低判断健康状况）
+4. 对课堂节奏把控得当，两本书之间安排了短暂休息
+5. 课程结束时明确了课后作业（两本书的书写练习），以及后续课程安排（下周再读完两本书→复习→测试）
 
-### 可改进之处
-1. **可以增加双宾语结构的口语练习**：让学生在实际对话中使用told/bet/give somebody something
+**可以改进的地方：**
+1. 课堂中教师有几次将学生名字说成"Anna"或"Ellen"（可能是口误或记混），建议注意统一称呼为"Alan"
+2. 后半段（第二本书）节奏稍显仓促，可能是因为两本书安排在同一节课，学生注意力有所下降
+3. 词汇讲解时间偏长，可以适当增加学生在语境中使用词汇的练习时间
+4. 学生对故事寓意的理解讨论可以更深入，例如引导Alan用英文表达自己的观点而不仅限于Yes/No回答
 
 ## 四、教师自评总结
-本节课以寓言故事The Camel and the Pig为主线，在阅读过程中系统学习了双宾语语法结构。教师通过"打赌"这一情节引出核心语法点，并在故事的阅读和讨论中深化理解。学生对故事内容有较好记忆，对双宾语结构的理解也初见成效。现有课程体系中还有一些之前的书目需要补充完成（如Meet the Beatles、Taking the Train等），将在后续课程中调整安排。
+
+本节课完成了两本书的阅读教学任务，寓言故事《The Camel and the Pig》和非虚构类读物《Taking the Train》在内容上形成了很好的互补。Alan在朗读方面表现不错，但在阅读理解回应速度上还有提升空间。教师在教学过程中注重引导学生思考作者的写作目的，同时强调"真正学会"的标准——不仅能读，还能用英语回答各种提问。建议在后续课程中增加口语互动和思维训练的比重，帮助Alan建立英语思维的信心和速度。
