@@ -1,0 +1,64 @@
+# 2026-04-17 课堂总结与教学反馈
+
+## 一、课堂内容概览
+
+本节课继续利用RAZ阅读课程，**复习了上一节课的寓言故事The Camel and the Pig**，并**新学了两本绘本**：一本虚构类（Taking the Train），一本非虚构类（Why Do Leaves Change Color）。
+
+### 1. The Camel and the Pig（复习）
+- 回顾故事内容：骆驼和猪在路上相遇，互相打赌夸耀自己的驼峰和卷尾巴，路过锁住的菜园后分别用自己的方式吃到蔬菜
+- 复习关键短语：bet somebody something, squeeze, reach, walk along, be full of, keep outside, be better to
+- 双宾语结构的巩固
+
+### 2. Taking the Train（新授）
+- **故事概览**：关于乘火车的词汇和场景。从出发到到达城市，经过隧道、田野等。
+- **关键词汇**：rest（休息）, arrive in（到达）, enter（进入）, rise（升起）, head toward（朝……前进）, whistle（汽笛）, track（轨道）, roll（滚动）, rock（摇晃）, grassy（长满草的）, through（穿过）
+- **短语动词**：get on/get off（上下车）, arrive in/arrive at（到达大/小地点）, head toward（朝……方向前进）
+
+### 3. Why Do Leaves Change Color（核心新授内容）
+- **文体认知**：非虚构类（non-fiction）信息型阅读
+- **核心科学原理**：
+  - 叶子在夏天制造大量"green stuff"（叶绿素），使叶子呈现绿色
+  - 秋天天气变化：白天变短，夜晚变长→叶子接收的阳光减少→制造的green stuff减少→绿色褪去→其他颜色（黄、橙、红、棕）开始显现
+  - 树木将养分储存在树干中，度过寒冷冬天
+  - "Leaves make food for the tree from sunlight, water and air."
+- **全书结构**：共6个section，层层递进地解释树叶为什么会变色
+- **关键词汇**：
+  - change（改变）, melt（融化）, turn（变为）, drop（掉落）, leaves（树叶）, stuff（东西）, less（更少）, through（通过）, weather（天气）, save（储存）, food（食物）
+- **重要句式结构**：
+  - make somebody do something（What makes leaves change color?）
+  - stop doing something（The leaves stop making green stuff.）
+  - start to do / start doing（Other colors start to show.）
+  - get ready for（Trees drop leaves to get ready for winter.）
+  - get through（Trees get through the cold winter.）
+- **科学词汇扩展**：green stuff即光合作用中的"叶绿素"（chlorophyll），但在G级别教材中简称为green stuff
+
+## 二、学生表现
+
+### Alan
+- **表现良好**：
+  - 对The Camel and the Pig的故事和词汇有较好的掌握和记忆
+  - 能积极参与"Why Do Leaves Change Color"的课堂问答，对引起树叶变色的原因做出初步回答
+  - 能回答叶子变色的季节（fall/autumn）
+  - 尝试用英文句子表达植物生长需要阳光、水和空气
+
+- **可改进**：
+  - 需要进一步理解"days get shorter, nights get longer"与"less sunlight→less green stuff→colors show"之间的逻辑链条
+  - 非虚构类文章的因果推理能力需要继续培养
+
+## 三、教学反馈
+
+### 教学方法说明
+采用**混合阅读教学法**，在课程中同时涵盖虚构类（The Camel and the Pig, Taking the Train）和非虚构类（Why Do Leaves Change Color）绘本，培养学生的不同阅读能力。
+
+### 教师优点
+1. **文体对比教学**：明确区分"fiction"（虚构类/故事类）和"non-fiction"（非虚构类/信息类）的阅读方法
+2. **科学内容循序渐进**：将叶绿素（chlorophyll）简化为"green stuff"这一学生能理解的概念，降低认知难度
+3. **导言型提问**：在阅读前先提问"Do you know why leaves change color?"，激发学生已有的知识和好奇心
+4. **因果逻辑训练**：引导学生理清"天气变化→日照减少→叶绿素减少→颜色变化"的因果关系链
+5. **既有知识关联**：将中学到的arrive in/at、through等词汇连接到"We have a book Taking the Train"和前面的课程
+
+### 可改进之处
+1. **非虚构类阅读速度**：由于信息量较大，非虚构类书籍的阅读节奏可以更慢一些，预留更多时间让学生理解和消化
+
+## 四、教师自评总结
+本节课实现了虚构类和非虚构类两种文体的混合教学。The Camel and the Pig的复习帮助学生巩固了双宾语结构，Why Do Leaves Change Color则开启了非虚构类阅读的学习，让学生接触科学知识性的英语阅读。学生对树叶变色的科学原理表现出一定的好奇心，但因果关系的完整表达还需要后续课程继续训练。
